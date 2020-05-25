@@ -1,7 +1,7 @@
-import React from 'react';
+import React, {FunctionComponent} from 'react';
 import './App.css';
 
-function App() {
+const App: FunctionComponent = () =>{
   return (
     <div className="App">
       <header className="App-header">
@@ -12,3 +12,4 @@ function App() {
 }
 
 export default App;
+ 
