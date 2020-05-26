@@ -5,7 +5,7 @@ const App: FunctionComponent = () => {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Bienvenidos Jovenes</h1>
+        <h1>Bienvenidos Jovenes de Argentina</h1>
       </header>
     </div>
   );
